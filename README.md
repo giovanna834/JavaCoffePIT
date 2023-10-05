@@ -1,2 +1,4 @@
 # JavaCoffePIT
-Projeto Integrador II
+Projeto Integrador II - plataforma e-comerce de uma cafeteria.
+
+
