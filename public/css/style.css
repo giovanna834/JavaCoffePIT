@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko:wght@600;700&display=swap');
+*{
+    font-family: 'Amiko', sans-serif;
+    
+} 
+
+.navbar{
+    background-color: #FCE5C7;
+}
+.logo{
+    position: relative;
+    max-width: 80px;
+}
+.nav-link{
+    color:#5B3A3A;
+}
+.btn-botao{
+    background-color:#E1525F;
+    border: none;
+    color: #ffff;
+    border-radius: 5px;
+    width: 70px;
+    height: 35px; 
+}
+.btn-botao-cadastro{
+    background-color:#E1525F;
+    border: none;
+    color: #ffff;
+    border-radius: 5px;
+    width: 95px;
+    height: 35px;
+}
+.btn-botao-email{
+    background-color:#E1525F;
+    border: none;
+    color: #ffff;
+    border-radius: 5px;
+    width: 250px;
+    height: 35px;
+}
+.btn-botao-alterarsenha{
+    background-color:#E1525F;
+    border: none;
+    color: #ffff;
+    border-radius: 5px;
+    width: 140
+    px;
+    height: 35px;
+}
+.card-titulo{
+    background-color: #E1525F;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #ffff;
+    border-bottom: 10px;
+    border-radius:4px;
+}
+.container label{
+    color: #5B3A3A;
+}
+.icon-hover:hover {
+    border-color: #3b71ca !important;
+    background-color: white !important;
+  }
+  
+  .icon-hover:hover i {
+    color: #3b71ca !important;
+  }
+
